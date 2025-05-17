@@ -1,0 +1,11 @@
+# .gitignore
+
+# Python virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Chromedriver binary
+chromedriver
+chromedriver.exe  # for Windows
